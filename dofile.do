@@ -1,3 +1,5 @@
-sysuse auto
-reg mpg price
-sada
+use auto
+//running regressions
+reg mpg price weight
+reg mpg price weight
+reg mpg price weight
